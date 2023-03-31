@@ -1,5 +1,0 @@
-br/com/payget/config/KeycloakLogoutHandler.class
-br/com/payget/config/SecurityConfig.class
-br/com/payget/controller/HomePageController.class
-br/com/payget/config/WebConfig.class
-br/com/payget/PayGetApplication.class
